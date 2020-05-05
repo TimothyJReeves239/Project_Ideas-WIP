@@ -70,3 +70,5 @@ get_researchers_for_university("Cornell University")
 # p2 = requests.get("https://scholar.google.com/citations?view_op=search_authors&hl=en&mauthors=cornell&after_author=UymYAAxE__8J&astart=30")
 # s2 = BeautifulSoup(p2.text, "html.parser")
 # print(get_researchers(s2))
+
+#Code from Ed Buckler
