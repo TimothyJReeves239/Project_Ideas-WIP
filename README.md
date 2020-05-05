@@ -10,7 +10,7 @@ Booklist.py	- Incorporate pages read/day estimated time until finish. Literature
 mentioned in A Series of Unfortunate Events---Both the books & the Netflix show
 
 
-Google_Scholar.py	- CALS School Research Scrapper created by Ed Buckler---much cleaner and better than mine. Inspiration &
+Google_Scholar.py	- CALS School Research Scraper created by Ed Buckler---much cleaner and better than mine. Inspiration &
 interesting data implications (Male/Female, Papers per year, Age, University) v. (# of Citations)
 
 
