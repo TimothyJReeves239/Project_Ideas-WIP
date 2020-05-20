@@ -6,7 +6,7 @@
 BedCodeFile.py - Useful for testing genome models
 
 
-Booklist.py	- Incorporate pages read/day estimated time until finish. Literature is a collection of every noteworth book
+Booklist.py	- Incorporate pages read/day estimated time until finish. Literature is a collection of every noteworthy book
 mentioned in A Series of Unfortunate Events---Both the books & the Netflix show
 
 
